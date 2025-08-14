@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org) project from [here](https://www.youtube.com/watch?v=VgO5WxSY_64), using latest Next.js 15, Tailwind CSS v3 And Framer Motion
 
 ## Getting Started
 
